@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rajkiran80/mcq-app.git/static/css/main.d4dd4c9e.css",
+    "main.js": "/rajkiran80/mcq-app.git/static/js/main.2e192242.js",
+    "index.html": "/rajkiran80/mcq-app.git/index.html",
+    "main.d4dd4c9e.css.map": "/rajkiran80/mcq-app.git/static/css/main.d4dd4c9e.css.map",
+    "main.2e192242.js.map": "/rajkiran80/mcq-app.git/static/js/main.2e192242.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4dd4c9e.css",
+    "static/js/main.2e192242.js"
+  ]
+}
